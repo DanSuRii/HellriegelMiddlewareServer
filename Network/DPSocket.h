@@ -21,4 +21,6 @@ namespace NS_DPNET
 
 		std::string strLastErr;
 	};
+
+	//Get BaseSock from SOCKET
 }

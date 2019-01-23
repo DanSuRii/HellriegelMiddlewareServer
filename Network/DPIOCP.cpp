@@ -4,7 +4,6 @@
 namespace NS_DPNET
 {
 
-
 	DPIOCP::DPIOCP()
 	{
 	}
